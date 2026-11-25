@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.zip
+*.rej
+*.orig
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+bin/scy-shell-ipc
